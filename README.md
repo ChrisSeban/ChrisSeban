@@ -2,5 +2,5 @@
 
 - 👋 Hi, I’m @Chris
 - 👀 I’m interested in Tech, Books and Adrenaline adventures. 
-- 🌱 I’m currently learning Fintech with AI and ML
+- 🌱 I’m currently exploring Fintech with AI and ML
 - 💞️ I’m looking to collaborate on FinTechs, Crypto and trading.
